@@ -1,0 +1,59 @@
+﻿{
+    "success": true,
+    "data":
+    {
+        "id": 242,
+        "content": "http://umi-test1.oss-cn-hangzhou.aliyuncs.com/242-video.mp4",
+        "description": "",
+        "topicType":
+        {
+            "name": "视频",
+            "code": 2
+        },
+        "burnTopic": false,
+        "anonymous": false,
+        "aliveTime": 300,
+        "user":
+        {
+            "id": 44,
+            "username": "13916059514",
+            "gender":
+            {
+                "name": "男",
+                "flag": 0
+            },
+            "avatar": "touxiang",
+            "nickname": "kkk",
+            "address":
+            {
+                "lat": 31.22434,
+                "lng": 121.437239,
+                "country": "中国",
+                "countryCode": null,
+                "province": "上海市",
+                "city": "上海市",
+                "district": null,
+                "address": "中国-上海市"
+            },
+            "signature": "是",
+            "publishTopicsNum": 10,
+            "followersNum": 2,
+            "followingNum": 1,
+            "topicLikeNum": 1,
+            "registrationWay":
+            {
+                "code": 1,
+                "description": "手机号注册"
+            },
+            "infoCompleted": true
+        },
+        "commentsNum": 0,
+        "burnableCommentsNum": null,
+        "comments": [],
+        "creationTime": 1504768375000,
+        "likeNum": 0,
+        "liked": false,
+        "imageUrlPrefix": "http://umi-test1.img-cn-hangzhou.aliyuncs.com/",
+        "owner": false,
+        "cover": null
+    }

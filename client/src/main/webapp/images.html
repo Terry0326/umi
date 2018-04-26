@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,height=device-height, user-scalable=no,initial-scale=1, minimum-scale=1, maximum-scale=1,target-densitydpi=device-dpi ">
+    <title>UING</title>
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/common.css">
+</head>
+
+<body>
+    <div class="flexbox flex_column hp100">
+        <div class="flexbox pl15 pr15 pt8 pb8 alignCenter" id="userPart">
+        </div>
+        <div id="carousel" class="overHidden"></div>
+        <div class="section flexbox pb8 pt8 pl15 pr15">
+            <div class="flex_1 flexbox">
+                <p><img src="img/icon_xx@2x.png" alt="" class="w20"></p>
+                <p class="pl5 pr10" id="commentsNum">20</p>
+            </div>
+            <div class="flexbox" id="zan">
+                <p><img src="img/icon_zan_nor@2x.png" alt="" class="w20"></p>
+                <p class="pl5" id="zanNum">221</p>
+            </div>
+        </div>
+        <ul class="fs14 pl15 flex_1 overY" id="commentWrap">
+            <!-- <li class="elli lh22">
+                <span>冬幕节的平凡：</span>
+                <i class="color_999">好地方，什么时候我们也去玩玩</i>
+            </li> -->
+        </ul>
+        <div class="pt10">
+            <p class="color_orange pl15 fs14">更多评论进入APP查看</p>
+            <div class="flexbox alignCenter pl15 pr15 pt8 pb8">
+                <p><img src="img/icon_logo_down@2x.png" alt="" class="w50"></p>
+                <div class="pl10 flex_1">
+                    <p class="fs21">Uing</p>
+                    <p class="color_aaa fs14 pt3">Uing的世界，有你</p>
+                </div>
+                <div class="bg_orange color_fff pl10 pr10 pt8 pb8 radius30 fs14" id="openTip">立即打开</div>
+            </div>
+        </div>
+    </div>
+    <div class="modal flexbox alignCenter middleCenter" style="display: none">
+        <div class="downloadWrap wp60 border_xs bg_fff radius5">
+            <p class="pt20 pb15 fs13 color_aaa center">此功能需要安装客户端才能用哦</p>
+            <ul class="flexbox ml15 mr15 mb10 lh31">
+                <li class="flex_1 center mr15 h30 fs14" id="cancel">取消</li>
+                <li class="flex_1 bg_orange color_fff center h30 fs14 radius5" id="download">立即下载</li>
+            </ul>
+        </div>
+    </div>
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <script>
+    $(function() {
+        //获取url中的id
+        function getQueryString(name) {
+            var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)', 'i');
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) {
+                return unescape(r[2]);
+            }
+            return null;
+        }
+        if (getQueryString("id")) {
+            var urlId = getQueryString("id");
+        }
+        //填数据
+        $.ajax({
+            type: "get",
+            url: "http://www.uingapp.com/umiclient/share/topic?id="+urlId,
+            // url: "http://116.62.228.67:8011/umiclient/share/topic?id=10",
+            dataType: "json",
+            success: function(data) {
+                var data = data.data;
+                //评论部分
+                var comments = data.comments;
+                var commentStr = '';
+                console.log(comments);
+                if (comments.length != 0) {
+                    for (var i = 0; i < comments.length; i++) {
+                        commentStr +=
+                            '<li class="elli lh22">' +
+                            '<span>' + comments[i].nickname + ' : </span>' +
+                            '<i class="color_999">' + comments[i].contentObject.content + '</i>' +
+                            '</li>';
+                    }
+                    $("#commentWrap").html(commentStr);
+                }
+                //顶部用户部分
+                var userStr = '';
+                userStr =
+                    '<div class="w35 h35 overHidden radius50 mr15">' +
+                    '<img src="' + data.imageUrlPrefix +data.user.id+ '-'+data.user.avatar + '" alt="" class="wp100">' +
+                    '</div>' +
+                    '<div>' +
+                    '<p class="fs14">' + data.user.nickname + '</p>' +
+                    '<p class="color_aaa fs13 pt5">' +
+                    '<span>' + data.user.address.country + ' ' + data.user.address.city + '</span>' +
+                    '<img src="img/right.png" alt="" class="w10">' +
+                    '</p>' +
+                    '</div>';
+                $("#userPart").html(userStr);
+                //评论数
+                var commentsNum = data.commentsNum;
+                $("#commentsNum").html(commentsNum);
+                //焚烧评论数
+                var burnableCommentsNum = data.burnableCommentsNum;
+                $("#burnableCommentsNum").html(burnableCommentsNum);
+                //点赞数
+                var topicLikeNum = data.likeNum;
+                $("#zanNum").html(topicLikeNum);
+                //添加轮播图图片
+                if (data.topicType.code == 1) {
+                    var imgArr = data.content.split(",");
+                    var imgStr = '';
+                    var imgPreUrl = data.imageUrlPrefix;
+                    if (imgArr.length != 0) {
+                        console.log(imgArr);
+                        for (var u = 0; u < imgArr.length; u++) {
+                            imgStr += 
+                                    '<div class="swiper-slide">'+
+                                        '<img src="' + imgPreUrl + '' + imgArr[u] + '?x-oss-process=image/format,jpg/interlace,1/resize,m_fill,w_750,h_680/quality,q_100" alt="">'+
+                                    '</div>';
+                        };
+                        var carousel = 
+                                    '<div class="swiper-container">'+
+                                        '<div class="swiper-wrapper">'+imgStr+'</div>'+
+                                        '<div class="swiper-pagination"></div>'+
+                                    '</div>'
+                        $("#carousel").html(carousel);
+                    }
+                    var swiper = new Swiper('.swiper-container', {
+                        pagination: '.swiper-pagination',
+                        spaceBetween: 30,
+                         autoHeight: true
+                    });
+                    // var imgW = $("#carousel img").width();
+                    // var imgH = $("#carousel img").height();
+                    // if(imgH/imgW>1.2){
+                    //     var carH = $("#carousel").height();
+                    //     $("#carousel img").css("height",carH+"px");
+                    // }else{
+                    //     $("#carousel img").addClass("wp100");
+                    // }
+                }
+            },
+            error: function(XMLHttpRequest, textStatus, errorThrown) {
+                console.log("请求失败！");
+            }
+        });
+        $(window).on("click", function() {
+            $(".modal").fadeIn("fast");
+        });
+        $(".swiper-container").on("click",function(e){
+            e.stopPropagation();
+        })
+        $("#download").on("click",function(){
+            window.location.href = "http://www.uingapp.com/";
+        })
+        $("#cancel").on("click", function() {
+            $(".modal").fadeOut("fast");
+        })
+        $(".modal").on("click", function() {
+            $(".modal").fadeOut("fast");
+            
+        })
+        $(".downloadWrap").on("click", function(e) {
+                e.stopPropagation();
+            })
+    })
+    </script>
+</body>
+
+</html>

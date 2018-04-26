@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/0.3.4/sockjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+  </head>
+
+  <body>
+    <p>
+      Notifications received on the web socket channel will be displayed below:
+    </p>
+    <textarea id="notifications-area" cols="60" rows="10" readonly="readonly"></textarea>
+
+    <!-- Javascript functions -->
+    <script>
+
+      /**
+       * Open the web socket connection and subscribe the "/notify" channel.
+       */
+      function connect() {
+
+        // Create and init the SockJS object
+        var socket = new SockJS('/umiclient/ws');
+        var stompClient = Stomp.over(socket);
+
+        // Subscribe the '/notify' channell
+        stompClient.connect({}, function(frame) {
+          stompClient.subscribe('/user/queue/notify', function(notification) {
+            // Call the notify function when receive a notification
+            notify(JSON.parse(notification.body).content);
+
+          });
+          stompClient.subscribe('/queue/topic/1', function(notification) {
+            // Call the notify function when receive a notification
+            notify(JSON.parse(notification.body).content);
+
+          });
+
+        });
+        
+        return;
+      } // function connect
+      
+      /**
+       * Display the notification message.
+       */
+      function notify(message) {
+        $("#notifications-area").append(message + "\n");
+        return;
+      }
+      
+      /**
+       * Init operations.
+       */
+      $(document).ready(function() {
+        
+        // Start the web socket connection.
+        connect();
+        
+      });
+
+    </script>
+
+    <br />
+    <hr />
+
+  </body>
+
+</html>

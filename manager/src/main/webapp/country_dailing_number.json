@@ -1,0 +1,2001 @@
+{
+    "Country": [
+      {
+        "Country_name": "AFGHANISTAN",
+        "Code": "AF",
+        "Country_name_CN": "阿富汗",
+        "NumberCode": "4",
+        "DialingCode": "93"
+      },
+      {
+        "Country_name": "ÅLAND ISLANDS",
+        "Code": "AX",
+        "Country_name_CN": "奥兰群岛(芬兰属)",
+        "NumberCode": "248",
+        "Alias_EN": "aland Island",
+        "Alias_TW": "奧蘭群島",
+        "Alias_HK": "亞蘭群島"
+      },
+      {
+        "Country_name": "ALBANIA",
+        "Code": "AL",
+        "Country_name_CN": "阿尔巴尼亚",
+        "NumberCode": "8",
+        "Alias_TW": "阿爾巴尼亞",
+        "DialingCode": "355"
+      },
+      {
+        "Country_name": "ALGERIA",
+        "Code": "DZ",
+        "Country_name_CN": "阿尔及利亚",
+        "NumberCode": "12",
+        "Alias_TW": "阿爾及利亞",
+        "DialingCode": "213"
+      },
+      {
+        "Country_name": "AMERICAN SAMOA",
+        "Code": "AS",
+        "Country_name_CN": "美属萨摩亚",
+        "NumberCode": "16",
+        "Alias_TW": "美屬薩摩亞",
+        "DialingCode": "684"
+      },
+      {
+        "Country_name": "ANDORRA",
+        "Code": "AD",
+        "Country_name_CN": "安道尔",
+        "NumberCode": "20",
+        "Alias_TW": "安道爾",
+        "DialingCode": "376"
+      },
+      {
+        "Country_name": "ANGOLA",
+        "Code": "AO",
+        "Country_name_CN": "安哥拉",
+        "NumberCode": "24",
+        "DialingCode": "244"
+      },
+      {
+        "Country_name": "ANGUILLA",
+        "Code": "AI",
+        "Country_name_CN": "安圭拉岛",
+        "NumberCode": "660",
+        "Alias_TW": "英屬安圭拉",
+        "Alias_HK": "安圭拉島",
+        "DialingCode": "1264"
+      },
+      {
+        "Country_name": "ANTARCTICA",
+        "Code": "AQ",
+        "Country_name_CN": "南极洲",
+        "NumberCode": "10",
+        "Alias_TW": "南極洲"
+      },
+      {
+        "Country_name": "ANTIGUA AND BARBUDA",
+        "Code": "AG",
+        "Country_name_CN": "安提瓜和巴布达",
+        "NumberCode": "28",
+        "Alias_EN": "Antigua (and) Barbuda",
+        "Alias_TW": "安提瓜和巴布達",
+        "DialingCode": "1268"
+      },
+      {
+        "Country_name": "ARGENTINA",
+        "Code": "AR",
+        "Country_name_CN": "阿根廷",
+        "NumberCode": "32",
+        "DialingCode": "54"
+      },
+      {
+        "Country_name": "ARMENIA",
+        "Code": "AM",
+        "Country_name_CN": "亚美尼亚",
+        "NumberCode": "51",
+        "Alias_TW": "亞美尼亞",
+        "DialingCode": "374"
+      },
+      {
+        "Country_name": "ARUBA",
+        "Code": "AW",
+        "Country_name_CN": "阿鲁巴",
+        "NumberCode": "533",
+        "Alias_TW": "阿魯巴"
+      },
+      {
+        "Country_name": "AUSTRALIA",
+        "Code": "AU",
+        "Country_name_CN": "澳大利亚",
+        "NumberCode": "36",
+        "Alias_TW": "澳洲",
+        "DialingCode": "61"
+      },
+      {
+        "Country_name": "AUSTRIA",
+        "Code": "AT",
+        "Country_name_CN": "奥地利",
+        "NumberCode": "40",
+        "Alias_TW": "奧地利",
+        "DialingCode": "43"
+      },
+      {
+        "Country_name": "AZERBAIJAN",
+        "Code": "AZ",
+        "Country_name_CN": "阿塞拜疆",
+        "NumberCode": "31",
+        "Alias_TW": "亞塞拜然",
+        "DialingCode": "994"
+      },
+      {
+        "Country_name": "BAHAMAS",
+        "Code": "BS",
+        "Country_name_CN": "巴哈马",
+        "NumberCode": "44",
+        "Alias_EN": "The Bahamas",
+        "Alias_TW": "巴哈馬",
+        "DialingCode": "1242"
+      },
+      {
+        "Country_name": "BAHRAIN",
+        "Code": "BH",
+        "Country_name_CN": "巴林",
+        "NumberCode": "48",
+        "DialingCode": "973"
+      },
+      {
+        "Country_name": "BANGLADESH",
+        "Code": "BD",
+        "Country_name_CN": "孟加拉国",
+        "NumberCode": "50",
+        "Alias_TW": "孟加拉",
+        "DialingCode": "880"
+      },
+      {
+        "Country_name": "BARBADOS",
+        "Code": "BB",
+        "Country_name_CN": "巴巴多斯",
+        "NumberCode": "52",
+        "Alias_TW": "巴貝多",
+        "DialingCode": "1246"
+      },
+      {
+        "Country_name": "BELARUS",
+        "Code": "BY",
+        "Country_name_CN": "白俄罗斯",
+        "NumberCode": "112",
+        "Alias_TW": "白俄羅斯",
+        "DialingCode": "375"
+      },
+      {
+        "Country_name": "BELGIUM",
+        "Code": "BE",
+        "Country_name_CN": "比利时",
+        "NumberCode": "56",
+        "Alias_TW": "比利時",
+        "DialingCode": "32"
+      },
+      {
+        "Country_name": "BELIZE",
+        "Code": "BZ",
+        "Country_name_CN": "伯利兹",
+        "NumberCode": "84",
+        "Alias_TW": "貝里斯",
+        "Alias_HK": "伯利茲",
+        "DialingCode": "501"
+      },
+      {
+        "Country_name": "BENIN",
+        "Code": "BJ",
+        "Country_name_CN": "贝宁",
+        "NumberCode": "204",
+        "Alias_TW": "貝南",
+        "Alias_HK": "貝寧",
+        "DialingCode": "229"
+      },
+      {
+        "Country_name": "BERMUDA",
+        "Code": "BM",
+        "Country_name_CN": "百慕大群岛",
+        "NumberCode": "60",
+        "Alias_TW": "百慕達",
+        "DialingCode": "1441"
+      },
+      {
+        "Country_name": "BHUTAN",
+        "Code": "BT",
+        "Country_name_CN": "不丹",
+        "NumberCode": "64"
+      },
+      {
+        "Country_name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Code": "BO",
+        "Country_name_CN": "玻利维亚",
+        "NumberCode": "68",
+        "Alias_EN": "Bolivia",
+        "Alias_TW": "玻利維亞",
+        "DialingCode": "591"
+      },
+      {
+        "Country_name": "BOSNIA AND HERZEGOVINA",
+        "Code": "BA",
+        "Country_name_CN": "波斯尼亚和黑塞哥维那",
+        "NumberCode": "70",
+        "Alias_EN": "Bosnia (and) Herzegovina",
+        "Alias_TW": "波赫",
+        "Alias_HK": "波黑"
+      },
+      {
+        "Country_name": "BOTSWANA",
+        "Code": "BW",
+        "Country_name_CN": "博茨瓦纳",
+        "NumberCode": "72",
+        "Alias_TW": "波札那",
+        "Alias_HK": "博茨瓦納",
+        "DialingCode": "267"
+      },
+      {
+        "Country_name": "BOUVET ISLAND",
+        "Code": "BV",
+        "Country_name_CN": "布韦岛",
+        "NumberCode": "74",
+        "Alias_TW": "布威島",
+        "Alias_HK": "U威特島"
+      },
+      {
+        "Country_name": "BRAZIL",
+        "Code": "BR",
+        "Country_name_CN": "巴西",
+        "NumberCode": "76",
+        "DialingCode": "55"
+      },
+      {
+        "Country_name": "BRITISH INDIAN OCEAN TERRITORY",
+        "Code": "IO",
+        "Country_name_CN": "英属印度洋领地",
+        "NumberCode": "86",
+        "Alias_TW": "英屬印度洋地區"
+      },
+      {
+        "Country_name": "BRUNEI DARUSSALAM",
+        "Code": "BN",
+        "Country_name_CN": "文莱",
+        "NumberCode": "96",
+        "Alias_EN": "Brunei",
+        "Alias_TW": "汶萊",
+        "DialingCode": "673"
+      },
+      {
+        "Country_name": "BULGARIA",
+        "Code": "BG",
+        "Country_name_CN": "保加利亚",
+        "NumberCode": "100",
+        "Alias_TW": "保加利亞",
+        "DialingCode": "359"
+      },
+      {
+        "Country_name": "BURKINA FASO",
+        "Code": "BF",
+        "Country_name_CN": "布基纳法索",
+        "NumberCode": "854",
+        "Alias_EN": "Burkina",
+        "Alias_TW": "布吉納法索",
+        "Alias_HK": "布基納法索",
+        "DialingCode": "226"
+      },
+      {
+        "Country_name": "BURUNDI",
+        "Code": "BI",
+        "Country_name_CN": "布隆迪",
+        "NumberCode": "108",
+        "Alias_TW": "蒲隆地",
+        "DialingCode": "257"
+      },
+      {
+        "Country_name": "CAMBODIA",
+        "Code": "KH",
+        "Country_name_CN": "柬埔寨",
+        "NumberCode": "116",
+        "DialingCode": "855"
+      },
+      {
+        "Country_name": "CAMEROON",
+        "Code": "CM",
+        "Country_name_CN": "喀麦隆",
+        "NumberCode": "120",
+        "Alias_TW": "喀麥隆",
+        "DialingCode": "237"
+      },
+      {
+        "Country_name": "CANADA",
+        "Code": "CA",
+        "Country_name_CN": "加拿大",
+        "NumberCode": "124",
+        "DialingCode": "1"
+      },
+      {
+        "Country_name": "CAPE VERDE",
+        "Code": "CV",
+        "Country_name_CN": "佛得角",
+        "NumberCode": "132",
+        "Alias_TW": "維德角"
+      },
+      {
+        "Country_name": "CAYMAN ISLANDS",
+        "Code": "KY",
+        "Country_name_CN": "开曼群岛",
+        "NumberCode": "136",
+        "Alias_TW": "_曼群島",
+        "DialingCode": "1345"
+      },
+      {
+        "Country_name": "CENTRAL AFRICAN REPUBLIC",
+        "Code": "CF",
+        "Country_name_CN": "中非共和国",
+        "NumberCode": "140",
+        "Alias_TW": "中非",
+        "DialingCode": "236"
+      },
+      {
+        "Country_name": "CHAD",
+        "Code": "TD",
+        "Country_name_CN": "乍得",
+        "NumberCode": "148",
+        "Alias_TW": "查德",
+        "DialingCode": "235"
+      },
+      {
+        "Country_name": "CHILE",
+        "Code": "CL",
+        "Country_name_CN": "智利",
+        "NumberCode": "152",
+        "DialingCode": "56"
+      },
+      {
+        "Country_name": "CHINA",
+        "Code": "CN",
+        "Country_name_CN": "中国",
+        "NumberCode": "156",
+        "Alias_TW": "大陸",
+        "DialingCode": "86"
+      },
+      {
+        "Country_name": "CHRISTMAS ISLAND",
+        "Code": "CX",
+        "Country_name_CN": "圣诞岛",
+        "NumberCode": "162",
+        "Alias_TW": "聖誕島"
+      },
+      {
+        "Country_name": "COCOS (KEELING) ISLANDS",
+        "Code": "CC",
+        "Country_name_CN": "科科斯群岛（基灵群岛）",
+        "NumberCode": "166",
+        "Alias_TW": "可可斯群島",
+        "Alias_HK": "科科斯群島"
+      },
+      {
+        "Country_name": "COLOMBIA",
+        "Code": "CO",
+        "Country_name_CN": "哥伦比亚",
+        "NumberCode": "170",
+        "Alias_TW": "哥倫比亞",
+        "DialingCode": "57"
+      },
+      {
+        "Country_name": "COMOROS",
+        "Code": "KM",
+        "Country_name_CN": "科摩罗",
+        "NumberCode": "174",
+        "Alias_EN": "The Comoros",
+        "Alias_TW": "葛摩",
+        "Alias_HK": "科摩羅"
+      },
+      {
+        "Country_name": "CONGO",
+        "Code": "CG",
+        "Country_name_CN": "刚果",
+        "NumberCode": "178",
+        "Alias_EN": "Republic of the Congo",
+        "Alias_TW": "剛果",
+        "DialingCode": "242"
+      },
+      {
+        "Country_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+        "Code": "CD",
+        "Country_name_CN": "刚果民主共和国",
+        "NumberCode": "180",
+        "Alias_EN": "Democratic Republic of the Congo",
+        "Alias_TW": "民主剛果"
+      },
+      {
+        "Country_name": "COOK ISLANDS",
+        "Code": "CK",
+        "Country_name_CN": "库克群岛",
+        "NumberCode": "184",
+        "Alias_TW": "庫克群島",
+        "DialingCode": "682"
+      },
+      {
+        "Country_name": "COSTA RICA",
+        "Code": "CR",
+        "Country_name_CN": "哥斯达黎加",
+        "NumberCode": "188",
+        "Alias_TW": "哥斯大黎加",
+        "Alias_HK": "哥斯達黎加",
+        "DialingCode": "506"
+      },
+      {
+        "Country_name": "CÔTE D'IVOIRE",
+        "Code": "CI",
+        "Country_name_CN": "科特迪瓦",
+        "NumberCode": "384",
+        "Alias_TW": "象牙海岸",
+        "DialingCode": "225"
+      },
+      {
+        "Country_name": "CROATIA",
+        "Code": "HR",
+        "Country_name_CN": "克罗地亚",
+        "NumberCode": "191",
+        "Alias_TW": "克羅地亞"
+      },
+      {
+        "Country_name": "CUBA",
+        "Code": "CU",
+        "Country_name_CN": "古巴",
+        "NumberCode": "192",
+        "DialingCode": "53"
+      },
+      {
+        "Country_name": "CYPRUS",
+        "Code": "CY",
+        "Country_name_CN": "塞浦路斯",
+        "NumberCode": "196",
+        "Alias_TW": "塞普勒斯",
+        "DialingCode": "357"
+      },
+      {
+        "Country_name": "CZECH REPUBLIC",
+        "Code": "CZ",
+        "Country_name_CN": "捷克共和国",
+        "NumberCode": "203",
+        "Alias_TW": "捷克",
+        "DialingCode": "420"
+      },
+      {
+        "Country_name": "DENMARK",
+        "Code": "DK",
+        "Country_name_CN": "丹麦",
+        "NumberCode": "208",
+        "Alias_TW": "丹麥",
+        "DialingCode": "45"
+      },
+      {
+        "Country_name": "DJIBOUTI",
+        "Code": "DJ",
+        "Country_name_CN": "吉布提",
+        "NumberCode": "262",
+        "Alias_TW": "吉布地",
+        "DialingCode": "253"
+      },
+      {
+        "Country_name": "DOMINICA",
+        "Code": "DM",
+        "Country_name_CN": "多米尼加",
+        "NumberCode": "212",
+        "Alias_TW": "多米尼克"
+      },
+      {
+        "Country_name": "DOMINICAN REPUBLIC",
+        "Code": "DO",
+        "Country_name_CN": "多米尼加共和国",
+        "NumberCode": "214",
+        "Alias_TW": "多明尼加",
+        "Alias_HK": "多米尼加",
+        "DialingCode": "1890"
+      },
+      {
+        "Country_name": "ECUADOR",
+        "Code": "EC",
+        "Country_name_CN": "厄瓜多尔",
+        "NumberCode": "218",
+        "Alias_TW": "厄瓜多",
+        "Alias_HK": "厄瓜多爾",
+        "DialingCode": "593"
+      },
+      {
+        "Country_name": "EGYPT",
+        "Code": "EG",
+        "Country_name_CN": "埃及",
+        "NumberCode": "818",
+        "DialingCode": "20"
+      },
+      {
+        "Country_name": "EL SALVADOR",
+        "Code": "SV",
+        "Country_name_CN": "萨尔瓦多",
+        "NumberCode": "222",
+        "Alias_TW": "薩爾瓦多",
+        "DialingCode": "503"
+      },
+      {
+        "Country_name": "EQUATORIAL GUINEA",
+        "Code": "GQ",
+        "Country_name_CN": "赤道几内亚",
+        "NumberCode": "226",
+        "Alias_TW": "赤道幾內亞"
+      },
+      {
+        "Country_name": "ERITREA",
+        "Code": "ER",
+        "Country_name_CN": "厄立特里亚",
+        "NumberCode": "232",
+        "Alias_TW": "厄立垂亞",
+        "Alias_HK": "厄立特里亞"
+      },
+      {
+        "Country_name": "ESTONIA",
+        "Code": "EE",
+        "Country_name_CN": "爱沙尼亚",
+        "NumberCode": "233",
+        "Alias_TW": "愛沙尼亞",
+        "DialingCode": "372"
+      },
+      {
+        "Country_name": "ETHIOPIA",
+        "Code": "ET",
+        "Country_name_CN": "埃塞俄比亚",
+        "NumberCode": "231",
+        "Alias_TW": "衣索比亞",
+        "Alias_HK": "埃塞俄比亞",
+        "DialingCode": "251"
+      },
+      {
+        "Country_name": "FALKLAND ISLANDS (MALVINAS)",
+        "Code": "FK",
+        "Country_name_CN": "福克兰群岛(马尔维纳斯群岛)",
+        "NumberCode": "238",
+        "Alias_EN": "Falkland Islands",
+        "Alias_TW": "福克蘭群島",
+        "Alias_HK": "福克蘭群島（馬爾維納斯）"
+      },
+      {
+        "Country_name": "FAROE ISLANDS",
+        "Code": "FO",
+        "Country_name_CN": "法罗群岛",
+        "NumberCode": "234",
+        "Alias_TW": "法羅群島"
+      },
+      {
+        "Country_name": "FIJI",
+        "Code": "FJ",
+        "Country_name_CN": "斐济群岛",
+        "NumberCode": "242",
+        "Alias_TW": "斐濟",
+        "DialingCode": "679"
+      },
+      {
+        "Country_name": "FINLAND",
+        "Code": "FI",
+        "Country_name_CN": "芬兰",
+        "NumberCode": "246",
+        "Alias_TW": "芬蘭",
+        "DialingCode": "358"
+      },
+      {
+        "Country_name": "FRANCE",
+        "Code": "FR",
+        "Country_name_CN": "法国",
+        "NumberCode": "250",
+        "Alias_TW": "法國",
+        "DialingCode": "33"
+      },
+      {
+        "Country_name": "FRENCH GUIANA",
+        "Code": "GF",
+        "Country_name_CN": "法属圭亚那",
+        "NumberCode": "254",
+        "Alias_TW": "法屬圭亞那",
+        "DialingCode": "594"
+      },
+      {
+        "Country_name": "FRENCH POLYNESIA",
+        "Code": "PF",
+        "Country_name_CN": "法属波利尼西亚",
+        "NumberCode": "258",
+        "Alias_TW": "法屬玻里尼西亞",
+        "Alias_HK": "法屬波利尼西亞",
+        "DialingCode": "689"
+      },
+      {
+        "Country_name": "FRENCH SOUTHERN TERRITORIES",
+        "Code": "TF",
+        "Country_name_CN": "法属南极地区",
+        "NumberCode": "260",
+        "Alias_TW": "法屬南部屬地",
+        "Alias_HK": "法屬南部地區"
+      },
+      {
+        "Country_name": "GABON",
+        "Code": "GA",
+        "Country_name_CN": "加蓬",
+        "NumberCode": "266",
+        "Alias_TW": "加彭",
+        "DialingCode": "241"
+      },
+      {
+        "Country_name": "GAMBIA",
+        "Code": "GM",
+        "Country_name_CN": "冈比亚",
+        "NumberCode": "270",
+        "Alias_TW": "甘比亞",
+        "Alias_HK": "岡比亞",
+        "DialingCode": "220"
+      },
+      {
+        "Country_name": "GEORGIA",
+        "Code": "GE",
+        "Country_name_CN": "乔治亚",
+        "NumberCode": "268",
+        "Alias_TW": "喬治亞",
+        "Alias_HK": "格魯吉亞",
+        "DialingCode": "995"
+      },
+      {
+        "Country_name": "GERMANY",
+        "Code": "DE",
+        "Country_name_CN": "德国",
+        "NumberCode": "276",
+        "Alias_TW": "德國",
+        "DialingCode": "49"
+      },
+      {
+        "Country_name": "GHANA",
+        "Code": "GH",
+        "Country_name_CN": "加纳",
+        "NumberCode": "288",
+        "Alias_TW": "燃{",
+        "Alias_HK": "加納",
+        "DialingCode": "233"
+      },
+      {
+        "Country_name": "GIBRALTAR",
+        "Code": "GI",
+        "Country_name_CN": "直布罗陀",
+        "NumberCode": "292",
+        "Alias_TW": "直布羅陀",
+        "DialingCode": "350"
+      },
+      {
+        "Country_name": "GREECE",
+        "Code": "GR",
+        "Country_name_CN": "希腊",
+        "NumberCode": "300",
+        "Alias_TW": "希臘",
+        "DialingCode": "30"
+      },
+      {
+        "Country_name": "GREENLAND",
+        "Code": "GL",
+        "Country_name_CN": "格陵兰",
+        "NumberCode": "304",
+        "Alias_TW": "格陵蘭"
+      },
+      {
+        "Country_name": "GRENADA",
+        "Code": "GD",
+        "Country_name_CN": "格林纳达",
+        "NumberCode": "308",
+        "Alias_TW": "格瑞那達",
+        "Alias_HK": "格林納達",
+        "DialingCode": "1809"
+      },
+      {
+        "Country_name": "GUADELOUPE",
+        "Code": "GP",
+        "Country_name_CN": "瓜德罗普岛",
+        "NumberCode": "312",
+        "Alias_TW": "瓜德魯普島"
+      },
+      {
+        "Country_name": "GUAM",
+        "Code": "GU",
+        "Country_name_CN": "关岛",
+        "NumberCode": "316",
+        "Alias_TW": "關島",
+        "DialingCode": "1671"
+      },
+      {
+        "Country_name": "GUATEMALA",
+        "Code": "GT",
+        "Country_name_CN": "危地马拉",
+        "NumberCode": "320",
+        "Alias_TW": "瓜地馬拉",
+        "Alias_HK": "危地馬拉",
+        "DialingCode": "502"
+      },
+      {
+        "Country_name": "GUERNSEY",
+        "Code": "GG",
+        "Country_name_CN": "格恩西",
+        "NumberCode": "831",
+        "Alias_TW": "根息島",
+        "Alias_HK": "根西島"
+      },
+      {
+        "Country_name": "GUINEA",
+        "Code": "GN",
+        "Country_name_CN": "几内亚",
+        "NumberCode": "324",
+        "Alias_TW": "幾內亞",
+        "DialingCode": "224"
+      },
+      {
+        "Country_name": "GUINEA-BISSAU",
+        "Code": "GW",
+        "Country_name_CN": "几内亚比绍",
+        "NumberCode": "624",
+        "Alias_TW": "幾內亞比索",
+        "Alias_HK": "幾內亞比紹"
+      },
+      {
+        "Country_name": "GUYANA",
+        "Code": "GY",
+        "Country_name_CN": "圭亚那",
+        "NumberCode": "328",
+        "Alias_TW": "蓋亞那",
+        "Alias_HK": "圭亞那",
+        "DialingCode": "592"
+      },
+      {
+        "Country_name": "HAITI",
+        "Code": "HT",
+        "Country_name_CN": "海地",
+        "NumberCode": "332",
+        "DialingCode": "509"
+      },
+      {
+        "Country_name": "HEARD ISLAND AND MCDONALD ISLANDS",
+        "Code": "HM",
+        "Country_name_CN": "赫德和麦克唐纳群岛",
+        "NumberCode": "334",
+        "Alias_TW": "赫德及麥當勞群島",
+        "Alias_HK": "赫德島和麥克唐納群島"
+      },
+      {
+        "Country_name": "HOLY SEE (VATICAN CITY STATE)",
+        "Code": "VA",
+        "Country_name_CN": "梵蒂冈城",
+        "NumberCode": "336",
+        "Alias_EN": "Vatican City (The Holy See)",
+        "Alias_TW": "梵蒂岡"
+      },
+      {
+        "Country_name": "HONDURAS",
+        "Code": "HN",
+        "Country_name_CN": "洪都拉斯",
+        "NumberCode": "340",
+        "Alias_HK": "宏都拉斯",
+        "DialingCode": "504"
+      },
+      {
+        "Country_name": "HONG KONG",
+        "Code": "HK",
+        "Country_name_CN": "中国香港",
+        "NumberCode": "344",
+        "Alias_TW": "香港",
+        "DialingCode": "852"
+      },
+      {
+        "Country_name": "HUNGARY",
+        "Code": "HU",
+        "Country_name_CN": "匈牙利",
+        "NumberCode": "348",
+        "DialingCode": "36"
+      },
+      {
+        "Country_name": "ICELAND",
+        "Code": "IS",
+        "Country_name_CN": "冰岛",
+        "NumberCode": "352",
+        "Alias_TW": "冰島",
+        "DialingCode": "354"
+      },
+      {
+        "Country_name": "INDIA",
+        "Code": "IN",
+        "Country_name_CN": "印度",
+        "NumberCode": "356",
+        "DialingCode": "91"
+      },
+      {
+        "Country_name": "INDONESIA",
+        "Code": "ID",
+        "Country_name_CN": "印度尼西亚",
+        "NumberCode": "360",
+        "Alias_TW": "印尼",
+        "DialingCode": "62"
+      },
+      {
+        "Country_name": "IRAN, ISLAMIC REPUBLIC OF",
+        "Code": "IR",
+        "Country_name_CN": "伊朗",
+        "NumberCode": "364",
+        "Alias_EN": "Iran",
+        "DialingCode": "98"
+      },
+      {
+        "Country_name": "IRAQ",
+        "Code": "IQ",
+        "Country_name_CN": "伊拉克",
+        "NumberCode": "368",
+        "DialingCode": "964"
+      },
+      {
+        "Country_name": "IRELAND",
+        "Code": "IE",
+        "Country_name_CN": "爱尔兰",
+        "NumberCode": "372",
+        "Alias_TW": "愛爾蘭",
+        "DialingCode": "353"
+      },
+      {
+        "Country_name": "ISLE OF MAN",
+        "Code": "IM",
+        "Country_name_CN": "马恩岛",
+        "NumberCode": "833",
+        "Alias_TW": "曼島",
+        "Alias_HK": "萌島"
+      },
+      {
+        "Country_name": "ISRAEL",
+        "Code": "IL",
+        "Country_name_CN": "以色列",
+        "NumberCode": "376",
+        "DialingCode": "972"
+      },
+      {
+        "Country_name": "ITALY",
+        "Code": "IT",
+        "Country_name_CN": "意大利",
+        "NumberCode": "380",
+        "Alias_TW": "義大利",
+        "DialingCode": "39"
+      },
+      {
+        "Country_name": "JAMAICA",
+        "Code": "JM",
+        "Country_name_CN": "牙买加",
+        "NumberCode": "388",
+        "Alias_TW": "牙買加",
+        "DialingCode": "1876"
+      },
+      {
+        "Country_name": "JAPAN",
+        "Code": "JP",
+        "Country_name_CN": "日本",
+        "NumberCode": "392",
+        "DialingCode": "81"
+      },
+      {
+        "Country_name": "JERSEY",
+        "Code": "JE",
+        "Country_name_CN": "泽西",
+        "NumberCode": "832",
+        "Alias_TW": "澤西島",
+        "Alias_HK": "澤西"
+      },
+      {
+        "Country_name": "JORDAN",
+        "Code": "JO",
+        "Country_name_CN": "约旦",
+        "NumberCode": "400",
+        "Alias_TW": "約旦",
+        "DialingCode": "962"
+      },
+      {
+        "Country_name": "KAZAKHSTAN",
+        "Code": "KZ",
+        "Country_name_CN": "哈萨克斯坦",
+        "NumberCode": "398",
+        "Alias_TW": "哈薩克",
+        "DialingCode": "327"
+      },
+      {
+        "Country_name": "KENYA",
+        "Code": "KE",
+        "Country_name_CN": "肯尼亚",
+        "NumberCode": "404",
+        "Alias_TW": "肯亞",
+        "Alias_HK": "肯尼亞",
+        "DialingCode": "254"
+      },
+      {
+        "Country_name": "KIRIBATI",
+        "Code": "KI",
+        "Country_name_CN": "基里巴斯",
+        "NumberCode": "296",
+        "Alias_TW": "吉里巴斯"
+      },
+      {
+        "Country_name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+        "Code": "KP",
+        "Country_name_CN": "朝鲜",
+        "NumberCode": "408",
+        "Alias_EN": "North Korea",
+        "Alias_TW": "北韓",
+        "DialingCode": "850"
+      },
+      {
+        "Country_name": "KOREA, REPUBLIC OF",
+        "Code": "KR",
+        "Country_name_CN": "韩国",
+        "NumberCode": "410",
+        "Alias_EN": "South Korea",
+        "Alias_TW": "韓國",
+        "DialingCode": "82"
+      },
+      {
+        "Country_name": "KUWAIT",
+        "Code": "KW",
+        "Country_name_CN": "科威特",
+        "NumberCode": "414",
+        "DialingCode": "965"
+      },
+      {
+        "Country_name": "KYRGYZSTAN",
+        "Code": "KG",
+        "Country_name_CN": "吉尔吉斯斯坦",
+        "NumberCode": "417",
+        "Alias_TW": "吉爾吉斯",
+        "DialingCode": "331"
+      },
+      {
+        "Country_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+        "Code": "LA",
+        "Country_name_CN": "老挝",
+        "NumberCode": "418",
+        "Alias_EN": "Laos",
+        "Alias_TW": "寮國",
+        "Alias_HK": "老撾",
+        "DialingCode": "856"
+      },
+      {
+        "Country_name": "LATVIA",
+        "Code": "LV",
+        "Country_name_CN": "拉脱维亚",
+        "NumberCode": "428",
+        "Alias_TW": "拉脫維亞",
+        "DialingCode": "371"
+      },
+      {
+        "Country_name": "LEBANON",
+        "Code": "LB",
+        "Country_name_CN": "黎巴嫩",
+        "NumberCode": "422",
+        "DialingCode": "961"
+      },
+      {
+        "Country_name": "LESOTHO",
+        "Code": "LS",
+        "Country_name_CN": "莱索托",
+        "NumberCode": "426",
+        "Alias_TW": "賴索托",
+        "Alias_HK": "萊索托",
+        "DialingCode": "266"
+      },
+      {
+        "Country_name": "LIBERIA",
+        "Code": "LR",
+        "Country_name_CN": "利比里亚",
+        "NumberCode": "430",
+        "Alias_TW": "賴比瑞亞",
+        "Alias_HK": "利比里亞",
+        "DialingCode": "231"
+      },
+      {
+        "Country_name": "LIBYAN ARAB JAMAHIRIYA",
+        "Code": "LY",
+        "Country_name_CN": "利比亚",
+        "NumberCode": "434",
+        "Alias_EN": "Libya",
+        "Alias_TW": "利比亞",
+        "DialingCode": "218"
+      },
+      {
+        "Country_name": "LIECHTENSTEIN",
+        "Code": "LI",
+        "Country_name_CN": "列支敦士登",
+        "NumberCode": "438",
+        "Alias_TW": "列支敦斯登",
+        "DialingCode": "423"
+      },
+      {
+        "Country_name": "LITHUANIA",
+        "Code": "LT",
+        "Country_name_CN": "立陶宛",
+        "NumberCode": "440",
+        "DialingCode": "370"
+      },
+      {
+        "Country_name": "LUXEMBOURG",
+        "Code": "LU",
+        "Country_name_CN": "卢森堡",
+        "NumberCode": "442",
+        "Alias_TW": "盧森堡",
+        "DialingCode": "352"
+      },
+      {
+        "Country_name": "MACAO",
+        "Code": "MO",
+        "Country_name_CN": "中国澳门",
+        "NumberCode": "446",
+        "Alias_TW": "澳門",
+        "DialingCode": "853"
+      },
+      {
+        "Country_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+        "Code": "MK",
+        "Country_name_CN": "马其顿,前南斯拉夫共和国",
+        "NumberCode": "807",
+        "Alias_EN": "Republic of Macedonia (FYROM)",
+        "Alias_TW": "馬其頓"
+      },
+      {
+        "Country_name": "MADAGASCAR",
+        "Code": "MG",
+        "Country_name_CN": "马达加斯加",
+        "NumberCode": "450",
+        "Alias_TW": "馬達加斯加",
+        "DialingCode": "261"
+      },
+      {
+        "Country_name": "MALAWI",
+        "Code": "MW",
+        "Country_name_CN": "马拉维",
+        "NumberCode": "454",
+        "Alias_TW": "馬拉威",
+        "Alias_HK": "馬拉維",
+        "DialingCode": "265"
+      },
+      {
+        "Country_name": "MALAYSIA",
+        "Code": "MY",
+        "Country_name_CN": "马来西亚",
+        "NumberCode": "458",
+        "Alias_TW": "馬來西亞",
+        "DialingCode": "60"
+      },
+      {
+        "Country_name": "MALDIVES",
+        "Code": "MV",
+        "Country_name_CN": "马尔代夫",
+        "NumberCode": "462",
+        "Alias_TW": "馬爾地夫",
+        "Alias_HK": "馬爾代夫",
+        "DialingCode": "960"
+      },
+      {
+        "Country_name": "MALI",
+        "Code": "ML",
+        "Country_name_CN": "马里",
+        "NumberCode": "466",
+        "Alias_TW": "馬利",
+        "Alias_HK": "馬里",
+        "DialingCode": "223"
+      },
+      {
+        "Country_name": "MALTA",
+        "Code": "MT",
+        "Country_name_CN": "马耳他",
+        "NumberCode": "470",
+        "Alias_TW": "馬耳他",
+        "Alias_HK": "馬爾他",
+        "DialingCode": "356"
+      },
+      {
+        "Country_name": "MARSHALL ISLANDS",
+        "Code": "MH",
+        "Country_name_CN": "马绍尔群岛",
+        "NumberCode": "584",
+        "Alias_TW": "馬紹爾群島"
+      },
+      {
+        "Country_name": "MARTINIQUE",
+        "Code": "MQ",
+        "Country_name_CN": "马提尼克岛",
+        "NumberCode": "474",
+        "Alias_TW": "法屬馬丁尼克",
+        "Alias_HK": "馬提尼克",
+        "DialingCode": "596"
+      },
+      {
+        "Country_name": "MAURITANIA",
+        "Code": "MR",
+        "Country_name_CN": "毛里塔尼亚",
+        "NumberCode": "478",
+        "Alias_TW": "茅利塔尼亞",
+        "Alias_HK": "毛里塔尼亞"
+      },
+      {
+        "Country_name": "MAURITIUS",
+        "Code": "MU",
+        "Country_name_CN": "毛里求斯",
+        "NumberCode": "480",
+        "Alias_TW": "模里西斯",
+        "DialingCode": "230"
+      },
+      {
+        "Country_name": "MAYOTTE",
+        "Code": "YT",
+        "Country_name_CN": "马约特岛",
+        "NumberCode": "175",
+        "Alias_TW": "美亞特",
+        "Alias_HK": "馬約特"
+      },
+      {
+        "Country_name": "MEXICO",
+        "Code": "MX",
+        "Country_name_CN": "墨西哥",
+        "NumberCode": "484",
+        "DialingCode": "52"
+      },
+      {
+        "Country_name": "MICRONESIA, FEDERATED STATES OF",
+        "Code": "FM",
+        "Country_name_CN": "密克罗尼西亚",
+        "NumberCode": "583",
+        "Alias_EN": "Federated States of Micronesia",
+        "Alias_TW": "密克羅尼西亞聯邦",
+        "Alias_HK": "密克羅尼西亞"
+      },
+      {
+        "Country_name": "MOLDOVA, REPUBLIC OF",
+        "Code": "MD",
+        "Country_name_CN": "摩尔多瓦",
+        "NumberCode": "498",
+        "Alias_EN": "Moldova",
+        "Alias_TW": "摩爾多瓦",
+        "DialingCode": "373"
+      },
+      {
+        "Country_name": "MONACO",
+        "Code": "MC",
+        "Country_name_CN": "摩纳哥",
+        "NumberCode": "492",
+        "Alias_TW": "摩納哥",
+        "DialingCode": "377"
+      },
+      {
+        "Country_name": "MONGOLIA",
+        "Code": "MN",
+        "Country_name_CN": "蒙古",
+        "NumberCode": "496",
+        "Alias_HK": "蒙古國",
+        "DialingCode": "976"
+      },
+      {
+        "Country_name": "MONTENEGRO",
+        "Code": "ME",
+        "Country_name_CN": "门的内哥罗(黑山)",
+        "NumberCode": "499",
+        "Alias_TW": "蒙特內哥羅",
+        "Alias_HK": "黑山"
+      },
+      {
+        "Country_name": "MONTSERRAT",
+        "Code": "MS",
+        "Country_name_CN": "蒙特塞拉特",
+        "NumberCode": "500",
+        "Alias_TW": "蒙塞拉特島",
+        "DialingCode": "1664"
+      },
+      {
+        "Country_name": "MOROCCO",
+        "Code": "MA",
+        "Country_name_CN": "摩洛哥",
+        "NumberCode": "504",
+        "DialingCode": "212"
+      },
+      {
+        "Country_name": "MOZAMBIQUE",
+        "Code": "MZ",
+        "Country_name_CN": "莫桑比克",
+        "NumberCode": "508",
+        "Alias_TW": "莫三比克",
+        "DialingCode": "258"
+      },
+      {
+        "Country_name": "MYANMAR",
+        "Code": "MM",
+        "Country_name_CN": "缅甸",
+        "NumberCode": "104",
+        "Alias_EN": "Myanmar (Burma)",
+        "Alias_TW": "緬甸",
+        "DialingCode": "95"
+      },
+      {
+        "Country_name": "NAMIBIA",
+        "Code": "NA",
+        "Country_name_CN": "纳米比亚",
+        "NumberCode": "516",
+        "Alias_TW": "奈米比亞",
+        "Alias_HK": "納米比亞",
+        "DialingCode": "264"
+      },
+      {
+        "Country_name": "NAURU",
+        "Code": "NR",
+        "Country_name_CN": "瑙鲁",
+        "NumberCode": "520",
+        "Alias_TW": "諾魯",
+        "Alias_HK": "瑙魯",
+        "DialingCode": "674"
+      },
+      {
+        "Country_name": "NEPAL",
+        "Code": "NP",
+        "Country_name_CN": "尼泊尔",
+        "NumberCode": "524",
+        "Alias_TW": "尼泊爾",
+        "DialingCode": "977"
+      },
+      {
+        "Country_name": "NETHERLANDS",
+        "Code": "NL",
+        "Country_name_CN": "荷兰",
+        "NumberCode": "528",
+        "Alias_TW": "荷蘭",
+        "DialingCode": "31"
+      },
+      {
+        "Country_name": "NETHERLANDS ANTILLES",
+        "Code": "AN",
+        "Country_name_CN": "荷属安的列斯群岛",
+        "NumberCode": "530",
+        "Alias_TW": "荷屬安地列斯",
+        "Alias_HK": "荷屬安的列",
+        "DialingCode": "599"
+      },
+      {
+        "Country_name": "NEW CALEDONIA",
+        "Code": "NC",
+        "Country_name_CN": "新喀里多尼亚",
+        "NumberCode": "540",
+        "Alias_TW": "新喀里多尼亞島",
+        "Alias_HK": "新喀里多尼亞"
+      },
+      {
+        "Country_name": "NEW ZEALAND",
+        "Code": "NZ",
+        "Country_name_CN": "新西兰",
+        "NumberCode": "554",
+        "Alias_TW": "紐西蘭",
+        "Alias_HK": "新西蘭",
+        "DialingCode": "64"
+      },
+      {
+        "Country_name": "NICARAGUA",
+        "Code": "NI",
+        "Country_name_CN": "尼加拉瓜",
+        "NumberCode": "558",
+        "DialingCode": "505"
+      },
+      {
+        "Country_name": "NIGER",
+        "Code": "NE",
+        "Country_name_CN": "尼日尔",
+        "NumberCode": "562",
+        "Alias_TW": "尼日",
+        "Alias_HK": "尼日爾",
+        "DialingCode": "227"
+      },
+      {
+        "Country_name": "NIGERIA",
+        "Code": "NG",
+        "Country_name_CN": "尼日利亚",
+        "NumberCode": "566",
+        "Alias_TW": "奈及利亞",
+        "Alias_HK": "尼日利亞",
+        "DialingCode": "234"
+      },
+      {
+        "Country_name": "NIUE",
+        "Code": "NU",
+        "Country_name_CN": "纽埃",
+        "NumberCode": "570",
+        "Alias_TW": "紐埃"
+      },
+      {
+        "Country_name": "NORFOLK ISLAND",
+        "Code": "NF",
+        "Country_name_CN": "诺福克岛",
+        "NumberCode": "574",
+        "Alias_TW": "諾福克島"
+      },
+      {
+        "Country_name": "NORTHERN MARIANA ISLANDS",
+        "Code": "MP",
+        "Country_name_CN": "北马里亚纳群岛",
+        "NumberCode": "580",
+        "Alias_TW": "北馬里亞納群島"
+      },
+      {
+        "Country_name": "NORWAY",
+        "Code": "NO",
+        "Country_name_CN": "挪威",
+        "NumberCode": "578",
+        "DialingCode": "47"
+      },
+      {
+        "Country_name": "OMAN",
+        "Code": "OM",
+        "Country_name_CN": "阿曼",
+        "NumberCode": "512",
+        "DialingCode": "968"
+      },
+      {
+        "Country_name": "PAKISTAN",
+        "Code": "PK",
+        "Country_name_CN": "巴基斯坦",
+        "NumberCode": "586",
+        "DialingCode": "92"
+      },
+      {
+        "Country_name": "PALAU",
+        "Code": "PW",
+        "Country_name_CN": "帕劳群岛",
+        "NumberCode": "585",
+        "Alias_TW": "帛琉",
+        "Alias_HK": "帕勞帛琉"
+      },
+      {
+        "Country_name": "PALESTINIAN TERRITORY, OCCUPIED",
+        "Code": "PS",
+        "Country_name_CN": "巴勒斯坦当局",
+        "NumberCode": "275",
+        "Alias_EN": "Palestinian territories",
+        "Alias_TW": "巴勒斯坦"
+      },
+      {
+        "Country_name": "PANAMA",
+        "Code": "PA",
+        "Country_name_CN": "巴拿马",
+        "NumberCode": "591",
+        "Alias_TW": "巴拿馬",
+        "DialingCode": "507"
+      },
+      {
+        "Country_name": "PAPUA NEW GUINEA",
+        "Code": "PG",
+        "Country_name_CN": "巴布亚新几内亚",
+        "NumberCode": "598",
+        "Alias_TW": "巴布亞新幾內亞",
+        "DialingCode": "675"
+      },
+      {
+        "Country_name": "PARAGUAY",
+        "Code": "PY",
+        "Country_name_CN": "巴拉圭",
+        "NumberCode": "600",
+        "DialingCode": "595"
+      },
+      {
+        "Country_name": "PERU",
+        "Code": "PE",
+        "Country_name_CN": "秘鲁",
+        "NumberCode": "604",
+        "Alias_TW": "秘魯",
+        "DialingCode": "51"
+      },
+      {
+        "Country_name": "PHILIPPINES",
+        "Code": "PH",
+        "Country_name_CN": "菲律宾",
+        "NumberCode": "608",
+        "Alias_EN": "The Philippines",
+        "Alias_TW": "菲律賓",
+        "DialingCode": "63"
+      },
+      {
+        "Country_name": "PITCAIRN",
+        "Code": "PN",
+        "Country_name_CN": "皮特克恩群岛",
+        "NumberCode": "612",
+        "Alias_EN": "Pitcairn Islands",
+        "Alias_TW": "皮特康島",
+        "Alias_HK": "皮特凱恩群島"
+      },
+      {
+        "Country_name": "POLAND",
+        "Code": "PL",
+        "Country_name_CN": "波兰",
+        "NumberCode": "616",
+        "Alias_TW": "波蘭",
+        "DialingCode": "48"
+      },
+      {
+        "Country_name": "PORTUGAL",
+        "Code": "PT",
+        "Country_name_CN": "葡萄牙",
+        "NumberCode": "620",
+        "DialingCode": "351"
+      },
+      {
+        "Country_name": "PUERTO RICO",
+        "Code": "PR",
+        "Country_name_CN": "波多黎各",
+        "NumberCode": "630",
+        "DialingCode": "1787"
+      },
+      {
+        "Country_name": "QATAR",
+        "Code": "QA",
+        "Country_name_CN": "卡塔尔",
+        "NumberCode": "634",
+        "Alias_TW": "卡達",
+        "Alias_HK": "卡塔爾",
+        "DialingCode": "974"
+      },
+      {
+        "Country_name": "REUNION",
+        "Code": "RE",
+        "Country_name_CN": "留尼汪岛",
+        "NumberCode": "638",
+        "Alias_EN": "Réunion",
+        "Alias_TW": "留尼旺",
+        "Alias_HK": "留尼汪",
+        "DialingCode": "262"
+      },
+      {
+        "Country_name": "ROMANIA",
+        "Code": "RO",
+        "Country_name_CN": "罗马尼亚",
+        "NumberCode": "642",
+        "Alias_TW": "羅馬尼亞",
+        "DialingCode": "40"
+      },
+      {
+        "Country_name": "RUSSIAN FEDERATION",
+        "Code": "RU",
+        "Country_name_CN": "俄罗斯",
+        "NumberCode": "643",
+        "Alias_TW": "俄羅斯",
+        "DialingCode": "7"
+      },
+      {
+        "Country_name": "RWANDA",
+        "Code": "RW",
+        "Country_name_CN": "卢旺达",
+        "NumberCode": "646",
+        "Alias_TW": "盧安達",
+        "Alias_HK": "盧旺達"
+      },
+      {
+        "Country_name": "SAINT BARTHÉLEMY",
+        "Code": "BL",
+        "Country_name_CN": "圣巴泰勒米",
+        "NumberCode": "652",
+        "Alias_TW": "聖巴瑟米",
+        "Alias_HK": "聖巴托洛繆島"
+      },
+      {
+        "Country_name": "SAINT HELENA",
+        "Code": "SH",
+        "Country_name_CN": "圣赫勒拿岛",
+        "NumberCode": "654",
+        "Alias_EN": "St. Helena (and) Dependencies",
+        "Alias_TW": "聖赫勒拿島",
+        "Alias_HK": "聖赫勒拿"
+      },
+      {
+        "Country_name": "SAINT KITTS AND NEVIS",
+        "Code": "KN",
+        "Country_name_CN": "圣基茨和尼维斯",
+        "NumberCode": "659",
+        "Alias_EN": "St. Kitts (and) Nevis",
+        "Alias_TW": "聖克里斯多福及尼維斯",
+        "Alias_HK": "聖基茨和尼維斯"
+      },
+      {
+        "Country_name": "SAINT LUCIA",
+        "Code": "LC",
+        "Country_name_CN": "圣卢西亚",
+        "NumberCode": "662",
+        "Alias_EN": "St. Lucia",
+        "Alias_TW": "聖露西亞",
+        "Alias_HK": "聖盧西亞",
+        "DialingCode": "1758"
+      },
+      {
+        "Country_name": "SAINT MARTIN",
+        "Code": "MF",
+        "Country_name_CN": "圣马丁",
+        "NumberCode": "663",
+        "Alias_EN": "Saint Martin (France)",
+        "Alias_TW": "法屬聖馬丁　",
+        "Alias_HK": "法屬聖馬丁"
+      },
+      {
+        "Country_name": "SAINT PIERRE AND MIQUELON",
+        "Code": "PM",
+        "Country_name_CN": "圣皮埃尔岛和密克隆岛",
+        "NumberCode": "666",
+        "Alias_EN": "Saint-Pierre and Miquelon",
+        "Alias_TW": "聖皮耶與密克隆群島",
+        "Alias_HK": "聖皮埃爾島和密克隆島"
+      },
+      {
+        "Country_name": "SAINT VINCENT AND THE GRENADINES",
+        "Code": "VC",
+        "Country_name_CN": "圣文森特和格林纳丁斯",
+        "NumberCode": "670",
+        "Alias_EN": "St. Vincent (and) the Grenadines",
+        "Alias_TW": "聖文森及格瑞那丁",
+        "Alias_HK": "聖文森特和格林納丁斯",
+        "DialingCode": "1784"
+      },
+      {
+        "Country_name": "SAMOA",
+        "Code": "WS",
+        "Country_name_CN": "萨摩亚",
+        "NumberCode": "882",
+        "Alias_TW": "薩摩亞",
+        "DialingCode": "685"
+      },
+      {
+        "Country_name": "SAN MARINO",
+        "Code": "SM",
+        "Country_name_CN": "圣马力诺",
+        "NumberCode": "674",
+        "Alias_TW": "聖馬利諾",
+        "Alias_HK": "聖馬力諾",
+        "DialingCode": "378"
+      },
+      {
+        "Country_name": "SAO TOME AND PRINCIPE",
+        "Code": "ST",
+        "Country_name_CN": "圣多美和普林西比",
+        "NumberCode": "678",
+        "Alias_EN": "Sao Tome (and) Principe",
+        "Alias_TW": "聖多美普林西比",
+        "Alias_HK": "聖多美及普林西比",
+        "DialingCode": "239"
+      },
+      {
+        "Country_name": "SAUDI ARABIA",
+        "Code": "SA",
+        "Country_name_CN": "沙特阿拉伯",
+        "NumberCode": "682",
+        "Alias_TW": "沙烏地阿拉伯",
+        "DialingCode": "966"
+      },
+      {
+        "Country_name": "SENEGAL",
+        "Code": "SN",
+        "Country_name_CN": "塞内加尔",
+        "NumberCode": "686",
+        "Alias_TW": "塞內加爾",
+        "DialingCode": "221"
+      },
+      {
+        "Country_name": "SERBIA",
+        "Code": "RS",
+        "Country_name_CN": "塞尔维亚",
+        "NumberCode": "688",
+        "Alias_TW": "塞爾維亞"
+      },
+      {
+        "Country_name": "SEYCHELLES",
+        "Code": "SC",
+        "Country_name_CN": "塞舌尔",
+        "NumberCode": "690",
+        "Alias_TW": "塞席爾",
+        "Alias_HK": "塞舌爾",
+        "DialingCode": "248"
+      },
+      {
+        "Country_name": "SIERRA LEONE",
+        "Code": "SL",
+        "Country_name_CN": "塞拉利昂",
+        "NumberCode": "694",
+        "Alias_TW": "獅子山",
+        "DialingCode": "232"
+      },
+      {
+        "Country_name": "SINGAPORE",
+        "Code": "SG",
+        "Country_name_CN": "新加坡",
+        "NumberCode": "702",
+        "DialingCode": "65"
+      },
+      {
+        "Country_name": "SLOVAKIA",
+        "Code": "SK",
+        "Country_name_CN": "斯洛伐克",
+        "NumberCode": "703",
+        "DialingCode": "421"
+      },
+      {
+        "Country_name": "SLOVENIA",
+        "Code": "SI",
+        "Country_name_CN": "斯洛文尼亚",
+        "NumberCode": "705",
+        "Alias_TW": "斯洛維尼亞",
+        "Alias_HK": "斯洛文尼亞",
+        "DialingCode": "386"
+      },
+      {
+        "Country_name": "SOLOMON ISLANDS",
+        "Code": "SB",
+        "Country_name_CN": "所罗门群岛",
+        "NumberCode": "90",
+        "Alias_TW": "所羅門群島",
+        "DialingCode": "677"
+      },
+      {
+        "Country_name": "SOMALIA",
+        "Code": "SO",
+        "Country_name_CN": "索马里",
+        "NumberCode": "706",
+        "Alias_TW": "索馬利亞",
+        "Alias_HK": "索馬里",
+        "DialingCode": "252"
+      },
+      {
+        "Country_name": "SOUTH AFRICA",
+        "Code": "ZA",
+        "Country_name_CN": "南非",
+        "NumberCode": "710",
+        "DialingCode": "27"
+      },
+      {
+        "Country_name": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+        "Code": "GS",
+        "Country_name_CN": "南乔治亚和南桑德威奇群岛",
+        "NumberCode": "239",
+        "Alias_TW": "南喬治亞與南三明治群島",
+        "Alias_HK": "南喬治亞島與南桑威奇群島"
+      },
+      {
+        "Country_name": "SPAIN",
+        "Code": "ES",
+        "Country_name_CN": "西班牙",
+        "NumberCode": "724",
+        "DialingCode": "34"
+      },
+      {
+        "Country_name": "SRI LANKA",
+        "Code": "LK",
+        "Country_name_CN": "斯里兰卡",
+        "NumberCode": "144",
+        "Alias_TW": "斯里蘭卡",
+        "DialingCode": "94"
+      },
+      {
+        "Country_name": "SUDAN",
+        "Code": "SD",
+        "Country_name_CN": "苏丹",
+        "NumberCode": "736",
+        "Alias_TW": "蘇丹",
+        "DialingCode": "249"
+      },
+      {
+        "Country_name": "SURINAME",
+        "Code": "SR",
+        "Country_name_CN": "苏里南",
+        "NumberCode": "740",
+        "Alias_TW": "蘇利南",
+        "Alias_HK": "蘇里南",
+        "DialingCode": "597"
+      },
+      {
+        "Country_name": "SVALBARD AND JAN MAYEN",
+        "Code": "SJ",
+        "Country_name_CN": "斯瓦尔巴群岛和扬马延",
+        "NumberCode": "744",
+        "Alias_EN": "Svalbard",
+        "Alias_TW": "斯瓦巴及尖棉島",
+        "Alias_HK": "斯瓦爾巴特群島"
+      },
+      {
+        "Country_name": "SWAZILAND",
+        "Code": "SZ",
+        "Country_name_CN": "斯威士兰",
+        "NumberCode": "748",
+        "Alias_TW": "史瓦濟蘭",
+        "Alias_HK": "斯威士蘭",
+        "DialingCode": "268"
+      },
+      {
+        "Country_name": "SWEDEN",
+        "Code": "SE",
+        "Country_name_CN": "瑞典",
+        "NumberCode": "752",
+        "DialingCode": "46"
+      },
+      {
+        "Country_name": "SWITZERLAND",
+        "Code": "CH",
+        "Country_name_CN": "瑞士",
+        "NumberCode": "756",
+        "DialingCode": "41"
+      },
+      {
+        "Country_name": "SYRIAN ARAB REPUBLIC",
+        "Code": "SY",
+        "Country_name_CN": "叙利亚",
+        "NumberCode": "760",
+        "Alias_EN": "Syria",
+        "Alias_TW": "敘利亞",
+        "DialingCode": "963"
+      },
+      {
+        "Country_name": "TAIWAN, PROVINCE OF CHINA",
+        "Code": "TW",
+        "Country_name_CN": "中国台湾",
+        "NumberCode": "158",
+        "Alias_EN": "Taiwan",
+        "Alias_TW": "台灣",
+        "DialingCode": "886"
+      },
+      {
+        "Country_name": "TAJIKISTAN",
+        "Code": "TJ",
+        "Country_name_CN": "塔吉克斯坦",
+        "NumberCode": "762",
+        "Alias_TW": "塔吉克",
+        "DialingCode": "992"
+      },
+      {
+        "Country_name": "TANZANIA, UNITED REPUBLIC OF",
+        "Code": "TZ",
+        "Country_name_CN": "坦桑尼亚",
+        "NumberCode": "834",
+        "Alias_EN": "Tanzania",
+        "Alias_TW": "坦尚尼亞",
+        "Alias_HK": "坦桑尼亞",
+        "DialingCode": "255"
+      },
+      {
+        "Country_name": "THAILAND",
+        "Code": "TH",
+        "Country_name_CN": "泰国",
+        "NumberCode": "764",
+        "Alias_TW": "泰國",
+        "DialingCode": "66"
+      },
+      {
+        "Country_name": "TIMOR-LESTE",
+        "Code": "TL",
+        "Country_name_CN": "东帝汶",
+        "NumberCode": "626",
+        "Alias_EN": "Timor-Leste (East Timor)",
+        "Alias_TW": "東帝汶"
+      },
+      {
+        "Country_name": "TOGO",
+        "Code": "TG",
+        "Country_name_CN": "多哥",
+        "NumberCode": "768",
+        "DialingCode": "228"
+      },
+      {
+        "Country_name": "TOKELAU",
+        "Code": "TK",
+        "Country_name_CN": "托克劳",
+        "NumberCode": "772",
+        "Alias_TW": "托克勞群島"
+      },
+      {
+        "Country_name": "TONGA",
+        "Code": "TO",
+        "Country_name_CN": "汤加",
+        "NumberCode": "776",
+        "Alias_TW": "東加",
+        "Alias_HK": "湯加",
+        "DialingCode": "676"
+      },
+      {
+        "Country_name": "TRINIDAD AND TOBAGO",
+        "Code": "TT",
+        "Country_name_CN": "特立尼达和多巴哥",
+        "NumberCode": "780",
+        "Alias_EN": "Trinidad (and) Tobago",
+        "Alias_TW": "千里達及托巴哥",
+        "Alias_HK": "千里達和多巴哥",
+        "DialingCode": "1809"
+      },
+      {
+        "Country_name": "TUNISIA",
+        "Code": "TN",
+        "Country_name_CN": "突尼斯",
+        "NumberCode": "788",
+        "Alias_TW": "突尼西亞",
+        "DialingCode": "216"
+      },
+      {
+        "Country_name": "TURKEY",
+        "Code": "TR",
+        "Country_name_CN": "土耳其",
+        "NumberCode": "792",
+        "DialingCode": "90"
+      },
+      {
+        "Country_name": "TURKMENISTAN",
+        "Code": "TM",
+        "Country_name_CN": "土库曼斯坦",
+        "NumberCode": "795",
+        "Alias_TW": "土庫曼",
+        "DialingCode": "993"
+      },
+      {
+        "Country_name": "TURKS AND CAICOS ISLANDS",
+        "Code": "TC",
+        "Country_name_CN": "特克斯群岛和凯科斯群岛",
+        "NumberCode": "796",
+        "Alias_EN": "Turks (and) Caicos Islands",
+        "Alias_TW": "土克斯及開科斯群島",
+        "Alias_HK": "特克斯和凱科斯群島"
+      },
+      {
+        "Country_name": "TUVALU",
+        "Code": "TV",
+        "Country_name_CN": "图瓦卢",
+        "NumberCode": "798",
+        "Alias_TW": "吐瓦鲁",
+        "Alias_HK": "圖瓦盧"
+      },
+      {
+        "Country_name": "UGANDA",
+        "Code": "UG",
+        "Country_name_CN": "乌干达",
+        "NumberCode": "800",
+        "Alias_TW": "烏干達",
+        "DialingCode": "256"
+      },
+      {
+        "Country_name": "UKRAINE",
+        "Code": "UA",
+        "Country_name_CN": "乌克兰",
+        "NumberCode": "804",
+        "Alias_TW": "烏克蘭",
+        "DialingCode": "380"
+      },
+      {
+        "Country_name": "UNITED ARAB EMIRATES",
+        "Code": "AE",
+        "Country_name_CN": "阿拉伯联合酋长国",
+        "NumberCode": "784",
+        "Alias_TW": "阿聯",
+        "Alias_HK": "阿聯酋",
+        "DialingCode": "971"
+      },
+      {
+        "Country_name": "UNITED KINGDOM",
+        "Code": "GB",
+        "Country_name_CN": "英国",
+        "NumberCode": "826",
+        "Alias_EN": "Great Britain (United Kingdom; England)",
+        "Alias_TW": "英國",
+        "DialingCode": "44"
+      },
+      {
+        "Country_name": "UNITED STATES",
+        "Code": "US",
+        "Country_name_CN": "美国",
+        "NumberCode": "840",
+        "Alias_EN": "United States of America (USA)",
+        "Alias_TW": "美國",
+        "DialingCode": "1"
+      },
+      {
+        "Country_name": "UNITED STATES MINOR OUTLYING ISLANDS",
+        "Code": "UM",
+        "Country_name_CN": "美属小奥特兰群岛",
+        "NumberCode": "581",
+        "Alias_TW": "美國邊疆小島",
+        "Alias_HK": "美國海外小島"
+      },
+      {
+        "Country_name": "URUGUAY",
+        "Code": "UY",
+        "Country_name_CN": "乌拉圭",
+        "NumberCode": "858",
+        "Alias_TW": "烏拉圭",
+        "DialingCode": "598"
+      },
+      {
+        "Country_name": "UZBEKISTAN",
+        "Code": "UZ",
+        "Country_name_CN": "乌兹别克斯坦",
+        "NumberCode": "860",
+        "Alias_TW": "烏茲別克",
+        "DialingCode": "233"
+      },
+      {
+        "Country_name": "VANUATU",
+        "Code": "VU",
+        "Country_name_CN": "瓦努阿图",
+        "NumberCode": "548",
+        "Alias_TW": "萬那杜",
+        "Alias_HK": "瓦努阿圖"
+      },
+      {
+        "Country_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+        "Code": "VE",
+        "Country_name_CN": "委内瑞拉",
+        "NumberCode": "862",
+        "Alias_EN": "Venezuela",
+        "Alias_TW": "委內瑞拉",
+        "DialingCode": "58"
+      },
+      {
+        "Country_name": "VIET NAM",
+        "Code": "VN",
+        "Country_name_CN": "越南",
+        "NumberCode": "704",
+        "Alias_EN": "Vietnam",
+        "DialingCode": "84"
+      },
+      {
+        "Country_name": "VIRGIN ISLANDS, BRITISH",
+        "Code": "VG",
+        "Country_name_CN": "维尔京群岛（英属）",
+        "NumberCode": "92",
+        "Alias_EN": "British Virgin Islands",
+        "Alias_TW": "英屬維爾京群島",
+        "Alias_HK": "英屬處女群島"
+      },
+      {
+        "Country_name": "VIRGIN ISLANDS, U.S.",
+        "Code": "VI",
+        "Country_name_CN": "维尔京群岛",
+        "NumberCode": "850",
+        "Alias_EN": "United States Virgin Islands",
+        "Alias_TW": "美屬維爾京群島",
+        "Alias_HK": "美屬處女群島"
+      },
+      {
+        "Country_name": "WALLIS AND FUTUNA",
+        "Code": "WF",
+        "Country_name_CN": "瓦利斯群岛和富图纳群岛",
+        "NumberCode": "876",
+        "Alias_TW": "沃里斯與伏塔那島",
+        "Alias_HK": "瓦利斯群島和富圖納群島"
+      },
+      {
+        "Country_name": "WESTERN SAHARA",
+        "Code": "EH",
+        "Country_name_CN": "西撒哈拉",
+        "NumberCode": "732"
+      },
+      {
+        "Country_name": "YEMEN",
+        "Code": "YE",
+        "Country_name_CN": "也门",
+        "NumberCode": "887",
+        "Alias_TW": "葉門",
+        "Alias_HK": "也門",
+        "DialingCode": "967"
+      },
+      {
+        "Country_name": "ZAMBIA",
+        "Code": "ZM",
+        "Country_name_CN": "赞比亚",
+        "NumberCode": "894",
+        "Alias_TW": "尚比亞",
+        "Alias_HK": "贊比亞",
+        "DialingCode": "260"
+      },
+      {
+        "Country_name": "ZIMBABWE",
+        "Code": "ZW",
+        "Country_name_CN": "津巴布韦",
+        "NumberCode": "716",
+        "Alias_TW": "辛巴威",
+        "Alias_HK": "津巴布韋",
+        "DialingCode": "263"
+      }
+    ]
+}

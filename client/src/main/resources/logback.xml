@@ -1,0 +1,31 @@
+<configuration>
+    <property name="LOG_HOME" value="logs"/>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <!-- encoders are assigned the type
+             ch.qos.logback.classic.encoder.PatternLayoutEncoder by default -->
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME}/umi_client.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    <logger name="com.ugoodtech" level="DEBUG"/>
+    <logger name="com.corundumstudio.socketio" level="DEBUG"/>
+    <!--<logger name="org.springframework" level="DEBUG"/>-->
+    <!--<logger name="org.springframework.web" level="DEBUG"/>-->
+    <!--<logger name="org.springframework.orm" level="DEBUG"/>-->
+    <!--<logger name="springfox.documentation" level="DEBUG"/>-->
+    <root level="ERROR">
+        <!--<appender-ref ref="FILE"/>-->
+        <appender-ref ref="STDOUT"/>
+    </root>
+</configuration>
